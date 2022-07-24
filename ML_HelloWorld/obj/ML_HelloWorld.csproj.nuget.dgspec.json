@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\USER\\Downloads\\ML_HelloWorld\\ML_HelloWorld\\ML_HelloWorld.csproj": {}
+    "C:\\Users\\USER\\Downloads\\Ml_CS_App_number1\\ML_HelloWorld\\ML_HelloWorld.csproj": {}
   },
   "projects": {
-    "C:\\Users\\USER\\Downloads\\ML_HelloWorld\\ML_HelloWorld\\ML_HelloWorld.csproj": {
+    "C:\\Users\\USER\\Downloads\\Ml_CS_App_number1\\ML_HelloWorld\\ML_HelloWorld.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\USER\\Downloads\\ML_HelloWorld\\ML_HelloWorld\\ML_HelloWorld.csproj",
+        "projectUniqueName": "C:\\Users\\USER\\Downloads\\Ml_CS_App_number1\\ML_HelloWorld\\ML_HelloWorld.csproj",
         "projectName": "ML_HelloWorld",
-        "projectPath": "C:\\Users\\USER\\Downloads\\ML_HelloWorld\\ML_HelloWorld\\ML_HelloWorld.csproj",
+        "projectPath": "C:\\Users\\USER\\Downloads\\Ml_CS_App_number1\\ML_HelloWorld\\ML_HelloWorld.csproj",
         "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\USER\\Downloads\\ML_HelloWorld\\ML_HelloWorld\\obj\\",
+        "outputPath": "C:\\Users\\USER\\Downloads\\Ml_CS_App_number1\\ML_HelloWorld\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "p2kM55r8v6+y/KUV3scdYfwre6MlJxON/dxKRO+kAcvTfwOfKewNtqQMeN3NsutbK7onVRiSwIT/Q2Lq6L/32A==",
+  "dgSpecHash": "8SP0bzarufhL+orZ1dh9lSMuJwaqFGSQ1WSYAUOKS2rnX79L0jpYq4Q3OrrQrK7mD6HbVC/XwMqFS5SIN9RKuw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\USER\\Downloads\\ML_HelloWorld\\ML_HelloWorld\\ML_HelloWorld.csproj",
+  "projectFilePath": "C:\\Users\\USER\\Downloads\\Ml_CS_App_number1\\ML_HelloWorld\\ML_HelloWorld.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\USER\\.nuget\\packages\\microsoft.csharp\\4.3.0\\microsoft.csharp.4.3.0.nupkg.sha512",
     "C:\\Users\\USER\\.nuget\\packages\\microsoft.ml\\1.7.1\\microsoft.ml.1.7.1.nupkg.sha512",
